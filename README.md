@@ -17,7 +17,6 @@
 </p>
 
 
-
 ## 🛠 Tech Stack
 
 | *Category*        | *Tools / Technologies*                                                                                                   |
