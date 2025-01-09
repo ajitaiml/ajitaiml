@@ -16,14 +16,14 @@
 <a href="https://linkedin.com/in/ajitsinghds02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajitsinghds02" height="30" width="40" /></a>
 </p>
 
-Here's a sample README.md code for the specific section you mentioned. The table includes symbols/icons for tools and topics to make it visually appealing. You can replace placeholders with actual links to icons if required.
+
 
 ## 🛠 Tech Stack
 
-| *Category*        | *Tools / Technologies*                                                                                                    |
+| *Category*        | *Tools / Technologies*                                                                                                   |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------|
 | *Languages*       | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)                     ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)                     ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)                     |
-| *Domain Knowledge*| Machine Learning, Computer Science, Deep Learning, Natural Language Processing, Business Intelligence                     |
+| *Domain Knowledge| **Machine Learning* <br> *Computer Science* <br> *Deep Learning* <br> *Natural Language Processing* <br> *Business Intelligence* |
 | *Databases*       | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)                   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)                   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  |
 | *Tools & Platforms*| ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)          |
 | *ML/DL Frameworks*| ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)           ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)             ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
