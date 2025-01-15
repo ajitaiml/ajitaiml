@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning *Machine Learning*
 
-- 👯 I’m looking to collaborate on *Power BI Projects*
+- 👥 I’m looking to collaborate on *Power BI Projects*
 
 - 🤝 I’m looking for help with *Machine Learning*
 
