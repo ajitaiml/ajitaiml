@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning <strong>Data Engineering/strong>
 - 👥 I’m looking to collaborate on <strong>Power BI Projects</strong>
-- 🤝 I’m looking for help with <strong>Machine Learning</strong>
 - 💬 Ask me about <strong>Power BI, Machine Learning, Natural Language Processing, Deep Learning</strong>
 - 👨‍💻 How to reach me <strong>ajitsinghds02@gmail.com</strong>
 
