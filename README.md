@@ -2,7 +2,7 @@
   <h1 style="color: cyan; font-size: 50px; text-shadow: 0 0 5px cyan, 0 0 10px cyan, 0 0 20px cyan;">
     Hi 👋, I'm Ajit Singh
   </h1>
-  <h3 align="center">A passionate AI & Data Science Enthusiast from India</h3>
+  <h3 align="center">A passionate AI & Data Science Enthusiast from India</h3> 
 </div>
 
 - 🌱 I’m currently learning <strong>Data Engineering/strong>
