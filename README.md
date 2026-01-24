@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning <strong>LLM's</strong>
 - 👥 I’m looking to collaborate on <strong>Power BI Projects</strong>
-- 💬 Ask me about <strong>Power BI, Machine Learning, Natural Language Processing, Deep Learning</strong>
+- 💬 Ask me about <strong>,Python, FastAPI, LLMS, Machine Learning, Natural Language Processing, Deep Learning, SQL, Power BI,</strong>
 - 👨‍💻 How to reach me <strong>ajitsinghds02@gmail.com</strong>
 
 <h3 align="left">Connect with me:</h3>
