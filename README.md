@@ -9,7 +9,6 @@
 
 - 🤖 I build production-grade LLM systems — agentic RAG, multi-agent workflows, MCP integrations
 - 🔧 Currently working on **AgentDesk** — a multi-agent customer support AI using LangGraph + pgVector
-- 📄 [Resume](https://drive.google.com/file/d/1DMUe6SNmJJ_NWCLanFTHN-kaX_ff2PJn/view) · [Portfolio](https://ajitaiml.github.io)
 - 📫 ajitsinghds02@gmail.com
 
 ---
@@ -22,6 +21,9 @@
   </a>
   <a href="http://ajitaiml.github.io" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1DMUe6SNmJJ_NWCLanFTHN-kaX_ff2PJn/view" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Resume-DC143C?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
 
@@ -37,5 +39,5 @@
 | **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![pgVector](https://img.shields.io/badge/pgVector-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logoColor=white) |
 | **ML / DL** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) |
-| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 | **BI Tools** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) |
