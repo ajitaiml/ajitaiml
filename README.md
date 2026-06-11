@@ -10,8 +10,8 @@
 - 🔭 Currently building **Multi-Agent AI Systems using LangGraph & MCP**
 - 🌱 Deepening knowledge in **LLM Fine-Tuning, RAG Pipelines & Agentic AI**
 - 💬 Ask me about **Python, LangChain, LangGraph, RAG, MCP, FastAPI, LLMs, NLP, SQL**
+- 📄 [View My Resume](https://ajitaiml.github.io)
 - 📫 Reach me at **ajitsinghds02@gmail.com**
-- ⚡ Fun fact: I build AI systems that talk to databases in plain English
 
 ---
 
@@ -20,9 +20,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/ajitsinghds02" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/ajitaiml" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="http://ajitaiml.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -43,40 +40,3 @@
 | **ML / DL** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) |
 | **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
 | **BI Tools** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajitaiml&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajitaiml&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitaiml&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajitaiml&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [LLM SQL Chatbot](https://github.com/ajitaiml) | Agentic RAG system converting natural language to validated SQL with self-correction pipeline | LangGraph, LangChain, PostgreSQL, FAISS |
-| [MCP Expense Tracker](https://github.com/ajitaiml) | Conversational expense management via LLM tool-calling using Anthropic's MCP | MCP, Claude Desktop, MySQL, Python |
-| [AI Meeting Brain](https://github.com/ajitaiml) | Multi-agent meeting transcript analyzer with classification and summarization | LangGraph, FastAPI, pgVector, Render |
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajitaiml&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
