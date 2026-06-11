@@ -10,7 +10,6 @@
 - 🔭 Currently building **Multi-Agent AI Systems using LangGraph & MCP**
 - 🌱 Deepening knowledge in **LLM Fine-Tuning, RAG Pipelines & Agentic AI**
 - 💬 Ask me about **Python, LangChain, LangGraph, RAG, MCP, FastAPI, LLMs, NLP, SQL**
-- 📄 [View My Resume](https://ajitaiml.github.io)
 - 📫 Reach me at **ajitsinghds02@gmail.com**
 
 ---
